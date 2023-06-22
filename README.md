@@ -1,7 +1,10 @@
-php version 7.4
-mysql version 5.7
 
-Geting Started
+**php version 7.4**
+**mysql version 5.7**
+ 
+**Geting Started**
+
+  
 
 composer install
 
@@ -15,4 +18,5 @@ DB_USERNAME=root
 DB_PASSWORD=
 
 RUN php artisan migrate
+
 RUN php artisan serve
